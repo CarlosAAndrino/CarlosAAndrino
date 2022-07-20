@@ -1,6 +1,6 @@
 Olá meu nome é Carlos Alberto Andrino Junior 👋
 
-- 🌱 Estudando Ciência da Computação
+- 💻 Estudando Ciência da Computação
 - ✉️ carlos.andrinojr@gmail.com
 
 <div align="center">
@@ -13,7 +13,6 @@ Olá meu nome é Carlos Alberto Andrino Junior 👋
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Carlos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="right" alt="Carlos-gif" height="150" src="https://media1.giphy.com/media/ZBythhSiZAoYea6vC2/giphy.gif?cid=ecf05e47un5uiea7xpnlajcgj7xqk1vuloenxr2jb94zem5l&rid=giphy.gif&ct=g">
 </div>
 
 ##
