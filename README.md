@@ -1,6 +1,6 @@
 Olá meu nome é Carlos Alberto Andrino Junior 👋
 
-- 💻 Ciêntista da Computação
+- 💻 Cientista da Computação
 - ✉️ carlos.andrinojr@gmail.com
 
 <div align="center">
